@@ -1,2 +1,2 @@
-# eece435L-Lab3
-This is a website designed to manage a course, student and instructor relationship in a school management system
+# PyQT and TKinter Course Management System
+This is a website designed to manage a course, student and instructor relationship in a school or university management system
