@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, QF
                              QLabel, QLineEdit, QPushButton, QTableWidget, QTableWidgetItem, 
                              QHBoxLayout, QHeaderView, QMessageBox, QTabWidget, QFileDialog, QComboBox)
 
-from Part1 import student, instructor, course 
+from models_PyQt import student, instructor, course 
 
 def create_db():
     """
